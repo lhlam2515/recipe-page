@@ -141,7 +141,7 @@ body {
   counter-increment: instruction-counter;
 }
 
-.instructions__item p > span {
+.instructions__item p > strong {
   color: var(--color-gray-600);
   font: var(--text-preset-4-bold);
 }
